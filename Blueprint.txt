@@ -1,0 +1,20 @@
+plan to create itsTaken:
+
+CAROUSEL :
+--> Reusable carousel
+--> Hero carousel
+--> Common carousel
+--> Cast carousel
+
+PAGES:
+--> Home Page 
+--> Movie Page
+--> Categories Page
+--> Authentication Page
+--> RazorPay payment gateway
+
+STEP BY STEP APPROACH:
+--> Layouts
+--> Routes
+--> Pages
+--> Components
